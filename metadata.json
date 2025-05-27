@@ -1,0 +1,9 @@
+{
+  "name": "TopBot",
+  "description": "Zažijte hlasový chat v reálném čase s 3D vizualizacemi reagujícími na vaši konverzaci, které oživují interakci s AI.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "prompt": ""
+}
